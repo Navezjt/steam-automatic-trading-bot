@@ -8,3 +8,4 @@ A powerfull trading bot for steam written in python3
 2. install the requirements by running pip install requirements.txt
 3. Run the main.py by either double clicking it or `python steam_trading_bot.py`
 hoiruhotp
+- https://github.com/richardTmcdHonapld/steam-automatic-trading-bot
